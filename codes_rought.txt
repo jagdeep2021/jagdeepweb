@@ -1,0 +1,22 @@
+I am currently working under the umbrella of ARPA-E funded project named “DEEPER". DEEPER is integrative platform aimed to identify deeper root phenes 
+								for maize. Under this project, I get to work on several interesting topics related to soil science, genetics, plant physiology, and modeling (RootSlice).
+								 But I am primarily focused on discovering new root phenes that could improve plant performance under drought and/or nitrogen stress conditions. 
+								 Among other topics, I am testing the utility of having long root hairs under drought stress. 
+								</p>
+								<h3 class = "major"> PhD projects</h3>
+								<span class="image main"><img src="images/RootSlice.png" alt="" /></span>
+
+								<p>
+									I am also working to identify phenes that could lead to overall metabolically cheap root systems. Maintaining roots is expensive, as on an average plants spend
+									one-third of their photosynthates on producing and maintaining roots. Our lab has identified a number of anatomical phenes like cortical cell file
+									number, cell size, and aerenchyma area which help in reducing the metabolic burden. I am moving a step deeper by looking at organelle level to explore 
+									the variation in different subcellular organelles like vacuole size, and peroxisomes per cell. 
+									I am then incorporating this information into a new root anatomy model - RootSlice to better understand the underlying mechanisms.
+								</p>
+								<p>
+								During my masters, I worked with a winter wheat breeding program at SDSU and did several projects on GWAS and population genetics of multiple 
+								important diseases. One of the projects that got me interested in studying plant roots was on wheat-diazotrophic interactions. In this project 
+								we found that wild species of wheat were able to interact better with diazotrophs as compared to their modern companions.
+								</p>
+
+								</article>
